@@ -10,23 +10,25 @@ Vous retrouverez également l'ensemble des documentations nécessaires pour les 
 •	Stockage Disque
 •	Haute dispo 
 •	Management : Autoscale / Arret automatique / updates /extension
-##	WebAPP
+
+## WebAPP
 •	Méthode de déploiement ( FTP / GIT…)
 •	Sécurité
 •	AppServicePlan et Pricing
 •	Slot de déploiement / Scaling
 o	Configure and manage virtual networking (1h30)
-##Reseau
+
+## Reseau
 ### Base réseau
 •	Vnet/Subnet
 •	Peering
 •	Ip Publique / Privée
 • DNS
-###Sécurité
+### Sécurité
 •	NSG / Azure Firewall
 •	AppGateway
 •	Private Endpoint
-###Interconnexion
+### Interconnexion
 •	ER / VPN S2S / P2S…
 
 ##Monitor and maintain Azure resources
