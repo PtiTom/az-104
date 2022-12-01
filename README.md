@@ -6,17 +6,17 @@ Bienvenue à la formation Az-104, durant cette journée voici les différents as
 Vous retrouverez également l'ensemble des documentations nécessaires pour les révision
 
 ##	Machine Virtuelle : 
-•	Sizing
-•	Stockage Disque
-•	Haute dispo 
-•	Management : Autoscale / Arret automatique / updates /extension
+-	Sizing
+-	Stockage Disque
+-	Haute dispo 
+-	Management : 
+-- Autoscale / Arret automatique updates extension
 
 ## WebAPP
-•	Méthode de déploiement ( FTP / GIT…)
-•	Sécurité
-•	AppServicePlan et Pricing
-•	Slot de déploiement / Scaling
-o	Configure and manage virtual networking (1h30)
+-AppServicePlan et Pricing
+-	Méthode de déploiement ( FTP / GIT…)
+-	Sécurité
+-	Slot de déploiement / Scaling
 
 ## Reseau
 ### Base réseau
