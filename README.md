@@ -6,6 +6,8 @@ Bienvenue à la formation Az-104, durant cette journée voici les différents as
 Vous retrouverez également l'ensemble des documentations nécessaires pour les révision
 
 ##	Machine Virtuelle : 
+- Bulleted list of third-party and other Microsoft links.
+- Links shouldn't include en-us locale unless they don't work without it.
 -	Sizing
 -	Stockage Disque
 -	Haute dispo 
