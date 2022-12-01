@@ -70,7 +70,7 @@ Vous retrouverez également l'ensemble des documentations nécessaires pour les 
 - https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/activity-log?tabs=powershell
 ## Identity and Governance
 ### Azure AD
--	Presentation Basique d’Azure AD : https://learn.microsoft.com/fr-fr/azure/active-directory/fundamentals/active-directory-whatis
+-	Présentation Basique d’Azure AD : https://learn.microsoft.com/fr-fr/azure/active-directory/fundamentals/active-directory-whatis
 -	Droits RBAC : https://learn.microsoft.com/en-us/azure/role-based-access-control/overview
 ### Stratégie Azure
 -	Azure Policy: https://learn.microsoft.com/en-us/azure/governance/policy/overview
