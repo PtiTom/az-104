@@ -1,27 +1,55 @@
----
-title: <Article title, which becomes the title metadata>
-description: <Write a 100-160 character description that ends with a period and starts with a verb. This becomes the browse card description.>
-author: <Your GitHub username>
-ms.date: <Publish or major update date - mm/dd/yyyy>
-ms.topic: conceptual
-ms.service: architecture-center
-ms.subservice: azure-guide
-categories:
-  - <Include at least one category, such as ai-machine-learning, analytics, compute, containers, databases, devops, hybrid, identity, integration, iot, networking, security, storage, and web>
-  - <There can be more than one category>
-  products:
-  - <Choose 1-5 products, such as azure-active-directory, azure-app-service, azure-arc, azure-cosmos-db, azure-data-factory, azure-data-lake, azure-devops, azure-event-hubs, azure-firewall, azure-functions, azure-hdinsight, azure-iot, azure-sql-database, azure-storage, and azure-virtual-machines. If your product is not included here, inquire with our AAC team.>
-  - <1-5 products>
-  - <1-5 products>
-ms.custom: fcp
----
 
-# H1 title
 
-There are no further content requirements for Architecture Guides, except to include the last few sections at the end, and to follow all general Azure Architecture Center content requirements.
+# Formation et Liens utiles Az-104
 
-The Architecture Guide template requires the following sections at the end of the article:
-  
+Bienvenue à la formation Az-104, durant cette journée voici les différents aspects que nous allons découvrir dans des travaux pratiques Azure.
+Vous retrouverez également l'ensemble des documentations nécessaires pour les révision
+
+##	Machine Virtuelle : 
+•	Sizing
+•	Stockage Disque
+•	Haute dispo 
+•	Management : Autoscale / Arret automatique / updates /extension
+##	WebAPP
+•	Méthode de déploiement ( FTP / GIT…)
+•	Sécurité
+•	AppServicePlan et Pricing
+•	Slot de déploiement / Scaling
+o	Configure and manage virtual networking (1h30)
+##Reseau
+### Base réseau
+•	Vnet/Subnet
+•	Peering
+•	Ip Publique / Privée
+• DNS
+###Sécurité
+•	NSG / Azure Firewall
+•	AppGateway
+•	Private Endpoint
+###Interconnexion
+•	ER / VPN S2S / P2S…
+
+##Monitor and maintain Azure resources
+	Backup
+•	VM
+•	Fichier
+•	BDDs
+	Monitoring / Débug
+•	Azure Monitor
+•	Log Analytics
+•	Activity Log
+##Manage Azure identities and governance (1h30)
+	Presentation Basique d’Azure AD
+	Droits RBAC 
+	Azure Policy
+##Implement and manage storage (1h)
+	Compte de stockage : en long en large et en travers
+•	Type de sotckage
+•	Stratégie de Réplication
+•	Stratégie de Performance
+•	Sécurité
+•	Pricing
+
 ## Contributors
 
 > (Expected, but this section is optional if all the contributors would prefer to not include it)
