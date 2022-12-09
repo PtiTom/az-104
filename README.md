@@ -1,6 +1,6 @@
 # Formation et Liens utiles Az-104
 
-[NotesPersonnelles.md]
+[Voir mes Notes PErsonnelles](NotesPersonnelles.md)
 
 Bienvenue à la formation Az-104, durant cette journée voici les différents aspects que nous allons découvrir dans des travaux pratiques Azure.
 Vous retrouverez également l'ensemble des documentations nécessaires pour les révision
