@@ -4,6 +4,9 @@ Bienvenue à la formation Az-104, durant cette journée voici les différents as
 Vous retrouverez également l'ensemble des documentations nécessaires pour les révision
 
 ##	Machine Virtuelle
+### Base de management
+- Subscription
+- Resource Group
 ### Fonctionalités de base
 - Création : https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal
 -	Sizing : https://learn.microsoft.com/en-us/azure/virtual-machines/sizes
